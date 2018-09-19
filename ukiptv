@@ -1,7 +1,86 @@
 #EXTM3U
+#EXTINF:-1,USA:Discovery
+http://egyman.net:1978/live/01000/01000/6291.ts
+#EXTINF:-1,USA:Discovery_Showcase
+http://egyman.net:1978/live/01000/01000/6290.ts
+#EXTINF:-1,USA:FOX
+http://egyman.net:1978/live/01000/01000/6289.ts
+#EXTINF:-1,USA:HBO Family
+http://egyman.net:1978/live/01000/01000/6288.ts
+#EXTINF:-1,USA:HBO HD
+http://egyman.net:1978/live/01000/01000/6287.ts
+#EXTINF:-1,USA:MS NBC HD
+http://egyman.net:1978/live/01000/01000/6286.ts
+#EXTINF:-1,USA:Tennis Channel
+http://egyman.net:1978/live/01000/01000/6285.ts
+#EXTINF:-1,USA:WWE NETWORK
+http://egyman.net:1978/live/01000/01000/6283.ts
+#EXTINF:-1,USA:WWE RAW HD
+http://egyman.net:1978/live/01000/01000/6284.ts
+#EXTINF:-1,USA:CMTV
+http://egyman.net:1978/live/01000/01000/6293.ts
+#EXTINF:-1,USA:CW HD
+http://egyman.net:1978/live/01000/01000/6292.ts
 
-#EXTINF:-1,SKY SPORTS CRICKET HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/4847.ts
+#EXTINF:-1,USA: NBCSN North West HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/74.ts
+#EXTINF:-1,USA: NBCSN Chicago HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/73.ts
+#EXTINF:-1,USA: NBCSN California HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/72.ts
+#EXTINF:-1,USA: NBCSN Boston HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/71.ts
+#EXTINF:-1,USA: NBCSN Bay Area HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/70.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD (IRELAND)
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/51.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/50.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/46.ts
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/47.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/48.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/55.ts
+#EXTINF:-1,UK: SKY SPORTS FORMULA 1 HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/56.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/49.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/54.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/53.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/52.ts
+#EXTINF:-1,UK: Premier Sports
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/69.ts
+#EXTINF:-1,UK: Free Sports
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/66.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/68.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/67.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/65.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/64.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/63.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/62.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/61.ts
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/60.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/59.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/58.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://ak47gaming.tk:8000/live/unQDiCXKKA/0efimr3HBC/57.ts
+
 #EXTINF:-1,US FOX SPORTS 2 HD
 http://188.93.238.184:8000/live/snet/snet/37811.ts
 #EXTINF:-1,US CBS Sports
@@ -706,6 +785,227 @@ http://188.93.238.184:8000/live/snet/snet/37676.ts
 http://188.93.238.184:8000/live/snet/snet/37679.ts
 #EXTINF:-1,UK@ Sky Witness
 http://188.93.238.184:8000/live/snet/snet/37736.ts
+
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1475.ts
+#EXTINF:-1,US: Euro Sports 1
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1437.ts
+#EXTINF:-1,US: Euro Sports 5
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1435.ts
+#EXTINF:-1,US: Euro Sports 6
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1439.ts
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1430.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1497.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1526.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1525.ts
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1459.ts
+#EXTINF:-1,US: Sport Netp HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1496.ts
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1486.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1434.ts
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1429.ts
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1533.ts
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1501.ts
+#EXTINF:-1,US: Willow Cricket
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1492.ts
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1532.ts
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1457.ts
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1483.ts
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1516.ts
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1502.ts
+#EXTINF:-1,US: Flow Sports 1 HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1519.ts
+#EXTINF:-1,US: Sport Tnete HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1513.ts
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1509.ts
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1441.ts
+#EXTINF:-1,US: Omni 1 CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1521.ts
+#EXTINF:-1,US: Canal D CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1504.ts
+#EXTINF:-1,US: Documenta CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1446.ts
+#EXTINF:-1,US: TVASP CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1469.ts
+#EXTINF:-1,US: Whdh Nbce CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1470.ts
+#EXTINF:-1,US: TLC HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1505.ts
+#EXTINF:-1,US: Slice CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1461.ts
+#EXTINF:-1,US: PIX 11 CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1471.ts
+#EXTINF:-1,US: Wild TV CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1510.ts
+#EXTINF:-1,US: Life Time CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1506.ts
+#EXTINF:-1,US: Film Zone
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1515.ts
+#EXTINF:-1,US: Dscience CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1518.ts
+#EXTINF:-1,US: Spike TV HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1536.ts
+#EXTINF:-1,US: Wfx Fox CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1527.ts
+#EXTINF:-1,US: Cine Pop HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1539.ts
+#EXTINF:-1,US: Global HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1503.ts
+#EXTINF:-1,US: Kirocbs HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1448.ts
+#EXTINF:-1,US: History CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1523.ts
+#EXTINF:-1,US: Knowledge HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1460.ts
+#EXTINF:-1,US: RDS 2 TV HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1522.ts
+#EXTINF:-1,US: AMC HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1534.ts
+#EXTINF:-1,US: PBSE HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1467.ts
+#EXTINF:-1,US: Disney jre HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1511.ts
+#EXTINF:-1,US: SRCM HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1487.ts
+#EXTINF:-1,US: Historia
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1488.ts
+#EXTINF:-1,US: Golf usa HD CA
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1489.ts
+#EXTINF:-1,US: FX HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1478.ts
+#EXTINF:-1,US: FXX
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1490.ts
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1479.ts
+#EXTINF:-1,US: AFN Pulse
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1468.ts
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1433.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1517.ts
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1438.ts
+#EXTINF:-1,US: Starz East
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1450.ts
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1538.ts
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1537.ts
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1524.ts
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1480.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1512.ts
+#EXTINF:-1,US: Hallmark Channel
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1528.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1540.ts
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1458.ts
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1507.ts
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1500.ts
+#EXTINF:-1,US: NBC Golf
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1477.ts
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1485.ts
+#EXTINF:-1,US: CHCH 2
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1482.ts
+#EXTINF:-1,US: Free Rom
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1465.ts
+#EXTINF:-1,US: Discovery World
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1499.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1464.ts
+#EXTINF:-1,US: NatGeo Wild
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1484.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1529.ts
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1495.ts
+#EXTINF:-1,US: SEC Network
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1463.ts
+#EXTINF:-1,US: FOX Comedy
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1432.ts
+#EXTINF:-1,US: USA Network
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1498.ts
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1541.ts
+#EXTINF:-1,US: CBC Vancover
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1494.ts
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1442.ts
+#EXTINF:-1,US: E TV
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1531.ts
+#EXTINF:-1,US: TV ONE HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1481.ts
+#EXTINF:-1,US: CBSN HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1462.ts
+#EXTINF:-1,US: ABC 7
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1491.ts
+#EXTINF:-1,US: NBA TV
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1520.ts
+#EXTINF:-1,US: OWN
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1493.ts
+#EXTINF:-1,US: News Channel 21
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1456.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1466.ts
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1514.ts
+#EXTINF:-1,US: CNN Eng
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1443.ts
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1447.ts
+#EXTINF:-1,US: Beto TV
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1535.ts
+#EXTINF:-1,US: TSC
+http://ipsatpro.com:8080/live/RjliYu42G6/TQTb8dWuhz/1449.ts
 
 #EXTINF:-1,Uk: Sky Sports Box
 http://egyman.net:1978/live/22222/22222/6501.ts
